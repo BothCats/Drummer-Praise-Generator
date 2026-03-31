@@ -34,7 +34,7 @@
 
 点击下方的链接直接体验：
 
-[👉 点击这里开始演奏](https://cool_LIH.gitee.io/drummer-praising/)
+[👉 点击这里开始演奏](https://bothcats.github.io/Drummer-Praise-Generator/)
 
 ---
 
