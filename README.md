@@ -25,7 +25,7 @@
 1. 克隆本仓库：
 
    ```bash
-   git clone https://gitee.com/cool_LIH/drummer-praising.git
+   git clone git@github.com:BothCats/Code-Praise-Generator.git
    ```
 
 2. 直接在浏览器中打开 `index.html` 即可体验。
