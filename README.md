@@ -1,6 +1,6 @@
-### 🥁 Drummer Praise Generator
+### 🥁 Code Praise Generator
 
-> **献给所有在舞台上闪闪发光的鼓手。**
+> **献给所有在逻辑世界里闪闪发光的程序员。**
 
 这是一个基于 Web Audio API 和 HTML5 Canvas 开发的单页面应用。它不仅仅是一个夸夸生成器，更是一次**理性代码与感性节奏**的碰撞实验。
 
@@ -34,7 +34,7 @@
 
 点击下方的链接直接体验：
 
-[👉 点击这里开始演奏](https://bothcats.github.io/Drummer-Praise-Generator/)
+[👉 点击这里开始演奏](https://bothcats.github.io/Code-Praise-Generator/)
 
 ---
 
